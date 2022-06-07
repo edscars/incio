@@ -1,0 +1,92 @@
+@charset "UTF 8";
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Rock+Salt & display=swap');
+body {
+background-image: linear-gradient(to top ,#012626 ,#01403A);
+ font-family: 'Amatic SC', cursiva , sans-serif;
+}
+main {
+
+    background-color: rgb(241, 231, 231);
+      border-radius: 10px;
+    width: 700px;
+      padding: 10px;
+      margin: auto;
+      box-shadow: 10px 10px 10px #012626      ;
+      background-attachment: fixed ;
+}
+h1 {     text-align: center;
+           background-color: #038C7F;
+           color: #ffffff85;
+             text-shadow:1px 0px 1px  ;
+                font-weight: 800px;
+                font-size: 60px; 
+                 
+
+                 
+                 
+        
+        
+              }         
+h2 {
+      font-size: 50px;
+    color: #027368;
+
+
+   }
+   p{
+
+      font-size: 40px;
+ text-align: justify;
+   }
+
+   h3 {
+
+       text-align: right;
+       color: #038C7F;
+   }
+   a {
+       text-decoration: none;
+     color: #038C7F;
+     margin: 0%;
+   }
+   
+   a:hover{
+
+     color: #076969;
+   }
+   a:active {
+
+     color: #01403A;
+   }
+#feito {
+     background-color: #014646;
+  font-size: 20px;
+  text-align: center;
+ margin: 0%;
+ color: aliceblue;
+}
+#gay{
+
+   background-color: #01353500;
+ font-family:  'Rock Salt', cursiva;
+}
+#jojo {
+
+   margin: 20px;
+
+}
+
+
+#o {
+
+
+    color: rgb(0, 0, 0);
+   
+}
+
+iframe {
+
+margin: 50px;
+
+}
