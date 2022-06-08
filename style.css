@@ -6,7 +6,8 @@ background-image: linear-gradient(to top ,#012626 ,#01403A);
  font-family: 'Amatic SC', cursiva , sans-serif;
 }
 main {
-
+      min-width: 20px;
+    max-width: 1350px;
     background-color: rgb(241, 231, 231);
       border-radius: 10px;
     width: 700px;
